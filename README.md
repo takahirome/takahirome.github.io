@@ -1,1 +1,3 @@
-# takahirome.github.io
+# Yattecast
+
+https://r7kamura.github.io/yattecast/
