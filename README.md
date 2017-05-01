@@ -1,1 +1,0 @@
-# takahirome.github.io
